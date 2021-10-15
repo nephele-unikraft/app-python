@@ -1,0 +1,3 @@
+$(eval $(call addlib,apppython))
+
+APPPYTHON_SRCS-y += $(APP_BASE)/main.c
